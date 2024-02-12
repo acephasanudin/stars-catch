@@ -1,0 +1,15 @@
+{
+  "name": "stars catcher",
+  "version": "1.0.0",
+  "description": "Stars Catcher",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Acep Hasanudin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
